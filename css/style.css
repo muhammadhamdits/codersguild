@@ -1,0 +1,16 @@
+.brand-logo img{
+	filter: drop-shadow(1px 1px 1px yellow);
+}
+
+.slider h3, .slider h5{
+	text-shadow: 1px 1px 3px rgba(74,64,11,1);
+}
+
+.justify {
+	text-align: justify;
+	text-indent: 8%;
+}
+
+.about .container {
+	background-color: white;
+}
